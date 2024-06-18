@@ -1,6 +1,10 @@
 {
   "name": "nest-quick-setup",
   "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alahirajeffrey/nest-quick-setup"
+  },
   "description": "package to quickly setup nestjs, swagger and others",
   "main": "index.js",
   "scripts": {
