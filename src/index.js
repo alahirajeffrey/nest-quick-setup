@@ -1,7 +1,7 @@
 import figlet from "figlet";
 
 /**
- * setup figlet
+ * display ASCII art using figlet
  */
 const setupFiglet = () => {
   figlet("Nest Quick Setup", (err, data) => {
@@ -14,10 +14,16 @@ const setupFiglet = () => {
 };
 
 /**
+ * get user data to setup the project
+ */
+const getData = () => {};
+
+/**
  * import and run functions
  */
 const main = () => {
   setupFiglet();
+  getData();
 };
 
 main();
