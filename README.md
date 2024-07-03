@@ -1,6 +1,8 @@
 ## Nest Quick Setup
 
-This repo contains code for an npm package that creates a nestjs project, downloads the most used packages and sets up swagger
+**Quickly and automatically setup nestjs along with required dependencies**
+
+## Table of Contents
 
 ## License
 
